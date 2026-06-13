@@ -61,7 +61,6 @@ $query = mysqli_query($con, "SELECT * FROM dosen");
 <div class="container">
 
     <h2>Data Dosen</h2>
-    <h3>Achmad Surya Saputra (2410090003)</h3>
 
    <table>
     <tr>
